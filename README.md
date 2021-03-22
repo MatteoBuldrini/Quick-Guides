@@ -5,4 +5,3 @@ This repository contains Python-related tips and tricks, mainly related to the m
   <li>Pandas - Path name unicode error</li>
   <li>Pandas - String contains</li>
 </ol>
-
